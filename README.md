@@ -8,6 +8,26 @@ Debian tabanlı Pardus depoları kullanılarak oluşturulan özelleştirilmiş K
 - Görsellik açısından yapılacakların sınırı yok
 - işlevsellik anlamında bir çok artısı var...
 
+![resim](https://github.com/halak0013/pkde/assets/75750279/e0c7fecf-5d8b-4493-beeb-70ad1f45b264)
+
+![resim](https://github.com/halak0013/pkde/assets/75750279/98d1873f-7d4d-44f1-bd5c-d37337f44428)
+
+![resim](https://github.com/halak0013/pkde/assets/75750279/35b7e13b-2055-4e0f-b33c-be769efe5f24)
+
+* gesture ile uygulamayı aşağı alma
+
+![resim](https://github.com/halak0013/pkde/assets/75750279/eaece09a-94db-449d-869b-caf1bfa79cb9)
+
+* gesture ile uygulamam kapama
+
+![resim](https://github.com/halak0013/pkde/assets/75750279/3786240c-3c1f-4afe-bbbd-d4f52a700629)
+
+* sistem bazlı çeviri (esc ile çıkış!)
+
+![resim](https://github.com/halak0013/pkde/assets/75750279/795f2f4d-0a4c-428b-b7bd-a54e71cc045c)
+
+* resmi yazıya dönüştürme
+
 ### Bu iso'nun saf kde'den ne farkı var.
 
 Öncelikle *burada yapabileceklerinizi normal ked üzerinde de yapabilirsiniz ek olarak eklenenleri aşamları ayarlayarak yapabilirsiniz* diyelim ve başlayalım:
